@@ -7,11 +7,12 @@
 
 - 🔭 I’m currently working as a **Full Stack developer at TheGateGlobal**
 
-- 🌱 I’m currently learning **React, Spring and**
+- 🌱 I’m currently learning **React and Spring**
 
 - 📫 How to reach me **chavarodpa@outlook.com**
 
 - ⚡ Fun fact **I like to talk a lot**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
