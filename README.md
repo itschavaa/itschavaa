@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itschavaa" alt="itschavaa" /></a> </p>
 
-- 🔭 I’m currently working as a **Full Stack developer at TheGateGlobal**
+- 🔭 I’m currently working as a **Full Stack developer at YoloPago**
 
 - 🌱 I’m currently learning **React and Spring**
 
